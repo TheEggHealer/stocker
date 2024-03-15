@@ -1,0 +1,103 @@
+<message>:<prob>:<good_magnitude>:<bad_magnitude>:<duration>
+[stock] is about to change the game!:0.1:100:20:300
+New release by [stock] called HeadBones+ has good reviews:0.8:50:50:60
+[stock] to unveil groundbreaking AI technology:0.8:70:30:180
+Acquisition talks between [stock] and competitor intensify:0.6:50:40:120
+Regulatory approval expected for [stock]'s new drug:0.9:80:20:90
+Rumors of potential lawsuit against [stock] surface:0.4:20:60:150
+CEO of [stock] under investigation for insider trading:0.7:30:70:120
+[stock] rumored to expand into emerging markets:0.8:60:30:180
+Analysts predict downturn for [stock] due to supply chain issues:0.3:10:50:90
+[stock] accused of environmental violations:0.5:20:40:150
+Partnership with major retailer boosts prospects for [stock]:0.9:70:20:60
+Employee strike threatens production at [stock]'s factories:0.4:20:60:120
+Rumors of impending bankruptcy rattle [stock] investors:0.3:10:70:180
+[stock] faces antitrust investigation over market dominance:0.6:40:60:150
+New product launch by [stock] receives lukewarm reception:0.5:20:50:90
+[stock] accused of data breach, faces legal repercussions:0.4:30:50:120
+Insider reports suggest major restructuring at [stock]:0.7:40:60:180
+Competition heats up as rival challenges [stock]'s market share:0.5:30:40:90
+Analyst downgrade triggers sell-off of [stock] shares:0.3:20:60:120
+[stock] to invest heavily in renewable energy sector:0.8:60:20:150
+CEO's sudden resignation sends shockwaves through [stock]:0.6:30:70:90
+Speculation mounts over potential merger involving [stock]:0.7:50:30:180
+[stock] faces class-action lawsuit from disgruntled customers:0.4:20:60:120
+Rumors of boardroom power struggle at [stock] emerge:0.5:30:50:90
+Hedge funds bet against [stock] amid market uncertainty:0.3:20:60:150
+Positive clinical trial results propel [stock] to new highs:0.9:80:20:60
+Product recall tarnishes reputation of [stock]:0.4:20:60:90
+[stock] accused of price-fixing scheme, faces fines:0.6:40:50:120
+Strategic alliance with tech startup boosts prospects for [stock]:0.8:60:20:180
+Insider buying activity signals confidence in [stock]'s future:0.7:50:30:90
+Market rumors suggest impending dividend increase for [stock]:0.9:70:20:150
+Analysts warn of overvaluation, recommend caution with [stock]:0.3:10:60:120
+[stock] expands into new market segment with innovative product:0.8:70:30:180
+Short seller report alleges accounting irregularities at [stock]:0.5:20:60:90
+Management shakeup at [stock] sparks investor uncertainty:0.6:40:50:120
+Acquisition bid for [stock] falls through, shares plummet:0.4:30:60:150
+Rumors of buyout offer drive up share price of [stock]:0.7:60:30:90
+Trade tensions threaten [stock]'s international operations:0.5:30:50:120
+Patent infringement lawsuit filed against [stock]:0.4:20:60:90
+[stock] to unveil ambitious expansion plans at investor conference:0.8:70:20:180
+Allegations of workplace misconduct tarnish reputation of [stock]:0.6:30:60:120
+Analyst upgrade boosts investor confidence in [stock]:0.9:80:20:90
+Rumors of executive bonuses amidst layoffs anger [stock] employees:0.4:20:70:150
+[stock] announces breakthrough in renewable energy technology:0.8:60:30:180
+Cybersecurity breach exposes sensitive data of [stock] customers:0.5:30:60:90
+Whistleblower alleges accounting fraud at [stock]:0.6:40:50:120
+Partnership with celebrity endorser boosts brand visibility for [stock]:0.7:50:30:150
+Product recall hits [stock] profits, investors concerned:0.4:20:60:90
+[stock] faces SEC investigation over financial reporting:0.6:40:60:120
+Analyst downgrade triggers sell-off of [stock] shares:0.3:20:60:150
+[stock] to unveil game-changing innovation at tech conference:0.8:70:30:180
+CEO succession plan announced by [stock], investors cautious:0.6:30:60:120
+Insider trading scandal rocks [stock], executives implicated:0.5:20:60:90
+Rumors of impending dividend cut rattle [stock] investors:0.4:20:70:150
+New partnership with major retailer boosts sales for [stock]:0.9:70:20:180
+[stock] accused of unethical labor practices, faces boycott:0.5:30:60:120
+Regulatory approval granted for [stock]'s new product:0.8:60:30:90
+Analysts predict surge in demand for [stock] products:0.9:80:20:150
+Market rumors suggest impending acquisition bid for [stock]:0.7:50:30:180
+CEO of [stock] faces shareholder revolt over compensation package:0.4:20:70:120
+Environmental group protests against [stock]'s operations:0.6:40:50:90
+Allegations of accounting fraud overshadow earnings report for [stock]:0.5:20:60:150
+[stock] to divest underperforming divisions, streamline operations:0.8:70:20:180
+Insider selling activity raises concerns about [stock]'s future:0.6:30:60:120
+Speculation mounts over potential takeover bid for [stock]:0.7:50:30:150
+Patent infringement lawsuit threatens [stock]'s market position:0.4:20:60:90
+Rumors of product recall swirl around [stock]:0.5:30:60:120
+Analysts downgrade [stock] citing weak sales outlook:0.3:20:60:150
+[stock] to expand into new geographic markets:0.8:60:30:180
+Allegations of insider trading surface at [stock]:0.6:40:50:120
+Strategic partnership with industry leader boosts [stock]'s prospects:0.9:70:20:90
+Rumors of impending CEO resignation send [stock] shares tumbling:0.4:20:70:150
+Competition heats up as rival launches competing product against [stock]:0.5:30:60:120
+[stock] accused of product safety violations, faces lawsuit:0.6:40:60:90
+Analyst upgrade sends [stock] shares soaring:0.9:80:20:150
+Whistleblower alleges corruption within [stock]'s management:0.4:20:70:180
+Market rumors suggest partnership deal between [stock] and tech giant:0.7:50:30:120
+Trade war tensions threaten [stock]'s supply chain:0.5:30:60:150
+Environmental group praises sustainability efforts of [stock]:0.8:60:20:180
+CEO of [stock] faces shareholder lawsuit over executive compensation:0.6:30:70:120
+Insider reports suggest impending merger for [stock]:0.7:50:30:90
+Regulatory approval granted for [stock]'s new product line:0.9:70:20:150
+[stock] to launch aggressive marketing campaign to boost sales:0.8:70:30:180
+Allegations of discrimination surface against [stock]:0.5:20:60:120
+Insider trading investigation underway for [stock] executives:0.6:40:50:90
+Analyst downgrade triggers sell-off of [stock] shares:0.3:20:60:120
+[stock] accused of price manipulation, faces regulatory scrutiny:0.4:20:60:150
+Partnership with nonprofit organization enhances [stock]'s brand image:0.8:60:20:180
+Rumors of impending acquisition drive up share price of [stock]:0.7:50:30:120
+[stock] to unveil innovative product at industry conference:0.9:80:20:150
+CEO succession plan announced by [stock], investors cautious:0.6:30:60:120
+Short seller report alleges accounting irregularities at [stock]:0.5:20:60:90
+[stock] accused of unethical labor practices, faces boycott:0.4:20:70:150
+Strategic partnership with industry leader boosts [stock]'s prospects:0.7:50:30:180
+Analysts predict surge in demand for [stock] products:0.9:70:20:120
+Rumors of impending CEO resignation send [stock] shares tumbling:0.4:20:70:150
+Competition heats up as rival launches competing product against [stock]:0.6:40:60:90
+Whistleblower alleges corruption within [stock]'s management:0.5:30:60:120
+Market rumors suggest partnership deal between [stock] and tech giant:0.8:60:30:150
+Trade war tensions threaten [stock]'s supply chain:0.6:30:60:120
+Environmental group praises sustainability efforts of [stock]:0.9:80:20:180
+Rumors of product recall swirl around [stock]:0.7:50:30:90
