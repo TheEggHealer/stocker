@@ -14,6 +14,7 @@ class Stock:
         self.time_step = time_step
         self._visible_length = 0.8
         self.color = color
+        self.influence = 0
     
     def step(self):
         if self.value < 0: self.value = 0
@@ -24,8 +25,9 @@ class Stock:
     def add_marker(self, player, action):
         self.markers.append((player, action, 0))
     
-    def react(self, action):
-        ...
+    def set_influence(self, magnitude):
+        print('Setting influcen', magnitude)
+        self.influence = magnitude
     
     def max_visible(self):
         visible_length = int((self.surface.get_width() * self._visible_length) / self.time_step)
@@ -157,7 +159,7 @@ class BrownianStock(Stock):
  
     def step(self):    
         # Parameters
-        drift = 0.0001          # Drift term (constant rate of return)
+        drift = 0.0001 + self.influence / 10000          # Drift term (constant rate of return)
         volatility = 0.03      # Volatility (random fluctuation)
         delta_t = 1.0      # Time step size (daily)
  
